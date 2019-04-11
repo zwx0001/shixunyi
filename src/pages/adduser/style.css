@@ -1,0 +1,24 @@
+.wy_addusers{
+    width: 35%;
+    height: 200px;
+    border:1px solid #ccc;
+    background: white;
+}
+
+.wy_chooseuserrole{
+    text-align: center;
+}
+
+.wy_getmesgadduser button{
+    width: 60%;
+    height: 30px;
+    background: skyblue;
+    border:0;
+    color: white;
+    border-radius: 5px;
+    margin-top:10px;
+}
+
+.wy_getmesgadduser{
+    text-align: center;
+}
